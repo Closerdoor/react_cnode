@@ -70,6 +70,12 @@
   text-align: center;
 }
 
+.indexList {
+  padding: 0 10px;
+}
+.indexList p {
+  margin: 0;
+}
 /* @media all and (max-width: 767px) {
   #indexMenu {
     display: flex;
